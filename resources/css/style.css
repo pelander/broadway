@@ -5,7 +5,9 @@ html {
 
 .header {
   background-image: url("../images/the-flatiron-building.png");
+  color: white;
 }
+
 nav a {
   color: white;
   font-size: 18px;
@@ -15,8 +17,18 @@ h1 {
   font-size: 70px;
 }
 
-h2 {
+#process h2 {
   font-size: 32px;
 }
 
-h3
+.header h2 {
+  font-size: 23px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+p {
+  font-size: 14px;
+}
